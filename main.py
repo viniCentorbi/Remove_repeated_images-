@@ -4,7 +4,7 @@ import os
 from imutils import paths
 
 #Caminho da pasta onde estão as imagens
-folder = r'C:\Users\Vinícius\Pictures\Memes'
+folder = r'C:\Users\User\Pictures\Memes'
 
 #Cria uma lista com o diretório de cada imagem
 images = list(paths.list_images(folder))
